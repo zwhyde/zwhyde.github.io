@@ -1,0 +1,12 @@
+atlassian-ide-plugin.xml
+.idea
+node_modules
+.tmp
+.ftppass
+sftpCache.json
+.DS_Store
+Thumbs.db
+temp
+*.map
+#sass-lib
+main.css
